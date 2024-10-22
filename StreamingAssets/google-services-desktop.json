@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "592234348324",
+    "firebase_url": "https://vegas-club-poker-slots-game-default-rtdb.firebaseio.com",
+    "project_id": "vegas-club-poker-slots-game",
+    "storage_bucket": "vegas-club-poker-slots-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592234348324:android:9499e2f4cbd7457d4cbdb1",
+        "android_client_info": {
+          "package_name": "com.finstd.vegasclub.poker.slots.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592234348324-kl74eb1j2mdkng7h71k60fsu130n9tlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYYnbHPgsWWPBx9Jfcp5YPjjJQo6mBAPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592234348324-kl74eb1j2mdkng7h71k60fsu130n9tlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
